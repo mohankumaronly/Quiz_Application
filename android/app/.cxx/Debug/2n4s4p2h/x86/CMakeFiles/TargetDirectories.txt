@@ -1,0 +1,2 @@
+C:/Users/user/OneDrive/Desktop/QuiZ_Application/quize_application/android/app/.cxx/Debug/2n4s4p2h/x86/CMakeFiles/edit_cache.dir
+C:/Users/user/OneDrive/Desktop/QuiZ_Application/quize_application/android/app/.cxx/Debug/2n4s4p2h/x86/CMakeFiles/rebuild_cache.dir

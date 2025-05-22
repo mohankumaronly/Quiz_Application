@@ -1,1 +1,1 @@
-# Quize Application uisng the flutter framwork
+# Quiz Application uisng the flutter framwork
